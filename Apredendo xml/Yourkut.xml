@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE usuario [
+
+<!ELEMENT nome (#PCDATA)> 
+<!ELEMENT email (#PCDATA)> 
+<!ELEMENT senha (#PCDATA)>
+<!ELEMENT perfil (datadenascimento,descricaopessoal,interesses,religiao,fuma,bebe)> 
+<!ELEMENT rede (conhecido,amigo,muitoamigo)> 
+
+]>
+
+<usuarios>
+<usuario>
+	<nome>Jose</nome>
+	<email>Jose@hotmail.com</email>
+	<senha>12345678</senha>
+	<perfil>
+		<datadenascimento>22/04/1956</datadenascimento>
+		<descricaopessoal></descricaopessoal>
+		<interesses>jogos,tecnologias</interesses>
+		<religiao>Cristao</religiao>
+	</perfil>
+	<rede>
+		
+	</rede>
+</usuarios>
+
+
+
+
+<!-- Armazenar os usuários cadastrados. Cada usuário tem nome, e-mail, senha, perfil, rede de relacionamentos
+O perfil do usuário possui data de nascimento, descrição pessoal, interesses, religião, fuma (sim ou não), bebe (sim ou não) 
+A rede de relacionamentos possui lista de amigos e para cada amigo éassinalado o nível de amizade (conhecido, amigo, muito amigo)
+Referências -->
