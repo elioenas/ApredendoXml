@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <!DOCTYPE usuario [
 
+<!ELEMENT usuario(nome,email,senha,perfil,rede)>
 <!ELEMENT nome (#PCDATA)> 
 <!ELEMENT email (#PCDATA)> 
 <!ELEMENT senha (#PCDATA)>
@@ -9,7 +10,6 @@
 
 ]>
 
-<usuarios>
 <usuario>
 	<nome>Jose</nome>
 	<email>Jose@hotmail.com</email>
@@ -25,7 +25,7 @@
 	<rede>
 		
 	</rede>
-</usuarios>
+</usuario>
 
 
 
