@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fichario>
+   <individuo nome="Yumi Fujioka">
+    <idade>5</idade> 
+    <genero>feminino</genero> 
+  </individuo>
+  <individuo nome="Roberto Sales">
+    <idade>15</idade> 
+    <genero>masculino</genero> 
+  </individuo>
+  <individuo nome="Lobao da Silva">
+    <idade>33</idade> 
+    <genero>masculino</genero> 
+  </individuo>
+  <individuo nome="Dona Graça">
+    <idade>42</idade> 
+    <genero>feminino</genero> 
+  </individuo>
+  <individuo nome="Joseh Climber">
+    <idade>99</idade> 
+    <genero>feminino</genero> 
+  </individuo>
+  <individuo nome="Anderson Silva">
+    <idade>40</idade> 
+    <genero>masculino</genero> 
+  </individuo> 
+  <individuo nome="Marcelo Soares">
+    <idade>29</idade> 
+    <genero>masculino</genero> 
+  </individuo>   
+</fichario>

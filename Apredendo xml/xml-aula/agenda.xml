@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<agenda>
+  <entrada id="e1" tipo="pessoa">
+    <nome>José Carlos Ramalho</nome>
+    <email>jcr@iesp.edu.br</email>
+    <telefone>253 604479</telefone>
+  </entrada>
+  <grupo gid="ep1">
+    <entrada id="e2" tipo="pessoa">
+      <nome>Pedro Henriques</nome>
+      <email>prh@iesp.edu.br</email>
+      <telefone>253 604469</telefone>
+    </entrada>
+    <entrada id="e3" tipo="pessoa">
+      <nome>João Saraiva</nome>
+      <email>jas@iesp.edu.br</email>
+      <telefone>253 604479</telefone>
+    </entrada>                                                      
+  </grupo>
+  <entrada id="e4" tipo="empresa">
+    <nome>Lavandaria Tudo Branco</nome>
+    <telefone>253 604433</telefone>
+  </entrada>
+  <entrada id="e5" tipo="pessoa">
+    <nome>José Alves de Castro</nome>
+    <telefone>Não disponível</telefone>
+  </entrada>
+</agenda>
